@@ -3,3 +3,5 @@ TxSON33_modeling_complete.parquet
 lstm_greedy_selection/outputs_experiment_b_72h
 lstm_greedy_selection/outputs_experiment_a_48h
 .claude/
+outputs_lstm_72h
+test_ppt/outputs_*
